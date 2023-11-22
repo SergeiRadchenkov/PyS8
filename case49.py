@@ -121,6 +121,5 @@ def main():
                     for i, line in enumerate(data3, 1):
                         if n in line:
                             print(line)
-fgdhh
 
 main()
